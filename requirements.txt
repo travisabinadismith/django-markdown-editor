@@ -6,3 +6,11 @@ Markdown<3.4
 requests
 bleach
 tzdata
+martor
+gunicorn
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+sagemath
